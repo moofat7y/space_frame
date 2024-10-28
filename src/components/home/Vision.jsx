@@ -16,12 +16,14 @@ export default function Vision() {
         style={{ transform: `rotateY(${locale === "en" ? "0deg" : "180deg"})` }}
         src={shape1}
         className="max-w-[180px] absolute top-0 end-0 w-full aspect-[180/193] object-cover z-0 hidden 2xl:block"
-      />
+     alt="space frame vision image"
+     />
 
       <Image
         style={{ transform: `rotateY(${locale === "en" ? "0deg" : "180deg"})` }}
         src={shape2}
         className="max-w-[239px] absolute bottom-0 start-0 w-full aspect-[239/329] object-cover z-0 hidden 2xl:block"
+      alt="space frame vision image"
       />
       <div className="container">
         <h1 className="text-[#FFFFFF] text-2xl md:text-3xl xl:text-5xl font-medium max-w-[600px] leading-[64px] ">

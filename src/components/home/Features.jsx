@@ -23,6 +23,7 @@ export default function Features() {
       <Image
         src={featureBg}
         className="absolute bottom-0 w-full object-contain z-0"
+        alt="space frame features background image"
       />
       <div className="container">
         <div className="w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 z-[5] relative">

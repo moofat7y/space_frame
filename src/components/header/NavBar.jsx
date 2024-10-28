@@ -10,8 +10,8 @@ import MobileSlider from "../MobileSideBar";
 
 export default function NavBar() {
   const t = useTranslations("Index");
-  const navList = navBarConfing.map((it) => (
-    <NavItem href={it.href} label={t(`nav.${it.label}`)} />
+  const navList = navBarConfing.map((it, index) => (
+    <NavItem key={index} href={it.href} label={t(`nav.${it.label}`)} />
   ));
   return (
     <nav className=" w-full absolute left-0 z-10">

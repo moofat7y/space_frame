@@ -24,8 +24,9 @@ export default function Footer() {
     </div>
   ));
 
-  const navList = navBarConfing.map((it) => (
+  const navList = navBarConfing.map((it, index) => (
     <NavItem
+      key={index}
       href={it.href}
       label={t(`nav.${it.label}`)}
       className={"text-[#FFFFFF] text-base"}
@@ -39,6 +40,7 @@ export default function Footer() {
             width={1000}
             height={1000}
             src={logo}
+            alt="space frame logo"
             className="aspect-[277/96] max-w-[150px] md:max-w-[277px] w-full object-contain"
           />
 
