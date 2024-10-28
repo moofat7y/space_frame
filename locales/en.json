@@ -1,0 +1,77 @@
+{
+  "Index": {
+    "seeMore": "See more",
+    "viewAll": "View all",
+    "nav": {
+      "home": "home",
+      "features": "features",
+      "aboutus": "about us",
+      "services": "services",
+      "contactus": "Contact us"
+    },
+    "hero": {
+      "mainTitle": "Building the Future of Space Frames",
+      "text": "Unlock the potential of your space with our lightweight and versatile space frames. We offer a wide range of options to meet your unique needs, creating exceptional and memorable structures."
+    },
+    "features": {
+      "title1": "Network of elements",
+      "description1": "Space frames are built from a network of individual members, unlike continuous surfaces.",
+      "title2": "3D load-carrying",
+      "description2": "These structures handle loads coming from any direction, not just a single plane",
+      "title3": "Single or multiple layers",
+      "description3": "Space frames can be single or multi-layered, with some considering double-layer grids the true definition.",
+      "title4": "Curved or flat surfaces",
+      "description4": "These structures can take the form of both flat surfaces and curved shells Space"
+    },
+    "aboutus": {
+      "title": "what is a Space Frame?",
+      "description": "While technically any 3D structure could be called a space frame, in structural engineering it has a more specific meaning.  A space frame is a structure built from interlocking linear elements that can transfer forces in all three dimesions (think X, Y, and Z axes).",
+      "aboutSpaceFrame": "About SpaceFrame Company",
+      "aboutDetails": "SpaceFrame company specializes in long-span, column-Free space frame structure for industrial and architectural applications, we execute space frame system with Its bars and nodes, not only distributed loads more efficiently but also provides an elegant interior that can span up to 100 m in flat shape and more than in a curved shape By using the advantages of space frame, we are making architect's imagination true.",
+      "aboutList": {
+        "1": "Our projects include schools, sports halls, swimming pools, public buildings, transportation structures, museums, corporate office buildings, all buildings needs to be column free with wide spans and beyond.",
+        "2": "We design, fabricate and erect ourselves. Structures are 100% prefabricated, with easy assembled mechanical connections.",
+        "3": "The Connection between tubes are mechanical and efficient and requires no welding.",
+        "4": "The connector itself a spherical steel ball. The tubes are mounted by bolts at each ends and fastened to the spherical steel ball connector element.",
+        "5": "Al the elements are produced either galvanized or painted Space frame structural system offers numerous benefits including light weight, low foundation cost, cost efficiency, less construction time, error free Construction and ease of assembly.",
+        "6": "Individual pieces are easy to handle and can be assembled quickly with-necessary Supervision with non-specialized workers.",
+        "7": "Space frame Can be designed in different profiles (flat, circular, elliptical parabolic or a compound of different curves) in order to comply with required clearances or maximize the covered area"
+      }
+    },
+    "vision": {
+      "title": "We Have A Vision For The Future Of Space Frame.",
+      "description": "Our vision is to become a preferred contracting company in the construction sector with our proficient staff and with our high quality references. With this Vision, we are aiming to put our signature to the best and outstanding local and international projects",
+      "list": {
+        "1": "We are constantly working on research and development in order to cover continuously and rapidly Changing Customer demands,",
+        "2": "We are promoting our staff to increase their labor quality ni order to give our customers more quality and Lower cost service",
+        "3": "We are trying to become a Company which is contributing to our sector by pushing our and performance competitiveness to the highest level while caring for our responsibilities.",
+        "4": "W e are striving to use our sources efficiently and effectively"
+      },
+      "tabs": {
+        "vision": "Vision",
+        "mission": "Mission",
+        "principles": "Principles",
+        "values": "Values"
+      }
+    },
+    "projects": {
+      "title": "Related projects",
+      "list": {
+        "1": {
+          "title": "The steel space frame project is a systematic project",
+          "description": "With the continuous development  progress of human society, people have more and more requirements for activity space....."
+        }
+      }
+    },
+    "contact": {
+      "text": "Please be as detailed as possible, stating all relevant information you already have, including any contacts, to help us understand your enquiry and help us find the right person to handle your request.",
+      "name": "Your Name",
+      "email": "Your E-mail",
+      "subject": "Your Subject",
+      "message": "Your message",
+      "sendMessage": "Send message",
+      "corporate": "CORPORATE HEADQUARTERS",
+      "followUs": "Follow us"
+    }
+  }
+}
