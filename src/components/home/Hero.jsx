@@ -1,7 +1,6 @@
 import React from "react";
 import HeroSlider from "./HeroSlider";
 import { useTranslations } from "next-intl";
-import { MotionH1, MotionP } from "../ui/motion/motion";
 
 export default function Hero() {
   const t = useTranslations("Index");

@@ -18,6 +18,7 @@ export default function ProjectCard({ image, title, description, index }) {
           src={image}
           className="w-full aspect-[386/228] object-cover"
           alt={`${title} project`}
+          loading="lazy"
         />
         <div
           style={{

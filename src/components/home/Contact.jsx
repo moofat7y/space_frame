@@ -18,12 +18,12 @@ export default function Contact() {
   ));
 
   const socialMediaList = socialMediaLinks.map((it, index) => (
-    <div
+    <li
       key={index}
       className="bg-primary-500 text-white text-base rounded-full w-[28px] aspect-square flex items-center justify-center"
     >
       {it.icon}
-    </div>
+    </li>
   ));
   return (
     <MainSection data-aos="fade-up" data-aos-duration="2000" className={"map"}>

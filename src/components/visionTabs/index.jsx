@@ -21,11 +21,12 @@ export default function VisionTabs() {
   ));
 
   const list = Array.from({ length: 4 }).map((it, index) => (
-    <AboutCard
-      className={"bg-[#FFFFFF0D] py-3 text-white"}
-      key={index}
-      text={t(`${visionList[activeTab]}.list.${index + 1}`)}
-    />
+    <li key={index}>
+      <AboutCard
+        className={"bg-[#FFFFFF0D] py-3 text-white"}
+        text={t(`${visionList[activeTab]}.list.${index + 1}`)}
+      />
+    </li>
   ));
   return (
     <>

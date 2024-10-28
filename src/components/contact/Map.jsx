@@ -7,6 +7,7 @@ export default function Location() {
         style={{ border: "0px", aspectRatio: "1227/402", maxHeight: "600px" }}
         allowFullScreen=""
         loading="lazy"
+        title="loaction of space frame company"
         referrerPolicy="no-referrer-when-downgrade"
       ></iframe>
     </div>

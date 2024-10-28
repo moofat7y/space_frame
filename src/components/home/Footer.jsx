@@ -16,12 +16,12 @@ export default function Footer() {
   ));
 
   const socialMediaList = socialMediaLinks.map((it, index) => (
-    <div
+    <li
       key={index}
       className="bg-white text-primary-400 text-base rounded-full w-[28px] aspect-square flex items-center justify-center"
     >
       {it.icon}
-    </div>
+    </li>
   ));
 
   const navList = navBarConfing.map((it, index) => (
