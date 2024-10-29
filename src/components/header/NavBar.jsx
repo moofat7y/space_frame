@@ -7,6 +7,7 @@ import Button from "../ui/Button";
 import { MdOutlineEmail } from "react-icons/md";
 import { useTranslations } from "next-intl";
 import MobileSlider from "../MobileSideBar";
+import LangToggler from "../LangToggler";
 
 export default function NavBar() {
   const t = useTranslations("Index");
@@ -26,6 +27,8 @@ export default function NavBar() {
 
             <ul className="hidden lg:flex gap-8 list-none">{navList}</ul>
             <div className="items-center ms-auto gap-4 hidden lg:flex">
+              <LangToggler />
+
               <Button
                 variant={"contained"}
                 color={"secondary-500"}
