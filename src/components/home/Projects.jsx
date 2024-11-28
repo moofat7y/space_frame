@@ -18,7 +18,7 @@ export default function Projects() {
     </div>
   ));
   return (
-    <MainSection className={"bg-[#EEEEEE]"}>
+    <MainSection id="projects" className={"bg-[#EEEEEE]"}>
       <div className="container">
         <h1 className="text-2xl md:text-3xl xl:text-5xl text-[#535353] text-center">
           {t("projects.title")}

@@ -6,7 +6,7 @@ export default function Hero() {
   const t = useTranslations("Index");
   return (
     <main className="w-full h-screen">
-      <section id="#" className="w-full h-full relative">
+      <section id="home" className="w-full h-full relative">
         <HeroSlider />
 
         <div className="absolute top-1/2 z-[6] -translate-y-1/2 text-center max-w-[840px] w-full px-4 left-1/2 -translate-x-1/2">

@@ -17,7 +17,7 @@ export default function LangToggler({ className }) {
   return (
     <button
       className={twMerge(
-        "bg-whiten text-primary-400 text-xs md:text-base font-medium p-1 md:p-3 leading-none border-[1px] border-[#E7E9EB] rounded-md duration-150",
+        "bg-whiten text-primary-400 font-semibold text-xs md:text-base w-6 h-6 md:w-8 md:h-8 flex items-center justify-center  leading-none border-[1px] border-[#E7E9EB] rounded-md duration-150",
         className
       )}
       onClick={handleLangChange}

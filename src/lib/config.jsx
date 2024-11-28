@@ -1,7 +1,7 @@
 export const navBarConfing = [
   {
     label: "home",
-    href: "#",
+    href: "#home",
   },
   {
     label: "features",
@@ -12,8 +12,8 @@ export const navBarConfing = [
     href: "#aboutus",
   },
   {
-    label: "services",
-    href: "#services",
+    label: "projects",
+    href: "#projects",
   },
 ];
 

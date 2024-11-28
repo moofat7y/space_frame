@@ -17,7 +17,7 @@ export default function AboutUs() {
     />
   ));
   return (
-    <MainSection id="#aboutus" className={" lg:pt-24"}>
+    <MainSection id="aboutus" className={" lg:pt-24"}>
       <div className="container 2xl:ms-0 2xl:ps-0 2xl:me-0">
         <div className="flex gap-10 xl:gap-20 items-center  flex-col xl:flex-row">
           <div className="relative w-fit h-fit lg:py-12 shrink-0">
